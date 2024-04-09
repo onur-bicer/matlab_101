@@ -27,7 +27,6 @@ else birinci_sayi<ikinci_sayi;
     else
         tek_cift = "Girilen sayı tektir";
     end
-
 end
 
 % Komut satırında sadece sonucu görmek istediğim için clc yazıyorum
